@@ -8,6 +8,8 @@ Gitignore在线生成工具 → [https://michaelliao.github.io/gitignore-online-
 
 此仓库用于测试Pull Request，推送请使用UTF-8编码。
 
+测试一次PR
+
 推送格式：
 
 1. 按日期放入文件夹；(Put in a folder by date)
